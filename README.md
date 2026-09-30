@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm Duc</h1>
+<h1 align="center">Hi, I'm Nguyễn Đàm Chấn Đức</h1>
 
 <p align="center">
-  Student &amp; Full-stack Developer<br>
-  I build responsive web experiences, mobile apps with React Native and Flutter, and backend services with TypeScript, JavaScript, and C#.
+  Frontend Developer &amp; Student<br>
+  I focus on building responsive web interfaces and can also work across the stack, from backend services to databases. I have experience developing mobile apps with React Native and Flutter.
+</p>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="mailto:damchanduc1810@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/Taxt1810/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -51,7 +58,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" alt="Neo4J">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&amp;logo=Prisma&amp;logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
@@ -69,13 +75,6 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&amp;logo=apache-tomcat&amp;logoColor=black" alt="Apache Tomcat">
-</p>
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="mailto:damchanduc1810@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-  <a href="https://www.facebook.com/Taxt1810/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
 </p>
 
 <h2 align="center">GitHub Activity</h2>
